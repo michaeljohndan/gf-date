@@ -1,8 +1,14 @@
-# React + Vite
+# Silly little app to ask out a friend on a date
+## About the project
+Submission for the MLH Fellowship demonstrating familiarity with web development frameworks such as React and Vite, as well as programming languages such as JavaScript. This project is a developed frontend for a simple web application designed to collect data from the a specified userbase, refactored with code from a previous iteration. Future plans could include a backend to store user responses for collecion and analysis.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting started
+Run the installer.
+```
+npm i
+```
+Run the development server.
+```
+npm run dev
+```
