@@ -20,6 +20,13 @@ body {
     /* Smooth movement */
 }
 
+#goBackButton {
+    position: absolute;
+    justify-content: center;
+    margin-left: 150px;
+
+}
+
 .header_text {
     font-family: 'Nunito';
     font-size: 50px;
